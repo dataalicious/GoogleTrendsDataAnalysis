@@ -1,5 +1,5 @@
 *** THIS IS A MODIFIED VERSION OF CODE FOUND ON https://osf.io/4ywjc/ *** 
-
+***Brodeur, A., Clark, A., Fleche, S., & Powdthavee, N. (2022, August 5). COVID-19, Stay-Home Orders and Well-Being: Evidence from Google Trends. Retrieved from osf.io/4ywjc ***
 ********************************************************************
 *** Ronaldo effect on Google trends Searches ***
 ********************************************************************
